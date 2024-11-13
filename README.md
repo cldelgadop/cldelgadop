@@ -21,32 +21,32 @@
 
 | When                       | Session Title                  | Session Detail      | Event      |Link      |
 |--------------------------|------------------------|----------------------------------------------------------------|------------------------|----------------------------|
-|2025/04    | [Diverity in Open Source as a Sustainability Goal](https://my.doag.org/events/javaland/2025/agenda/#agendaId.5285) |Speaker, Session at Methodology and Culture track | JavaLand 2025| Next - [Register](https://my.doag.org/events/javaland/shop/)|
-|2025/03    | [Nurturing OpenJDK distribution: Eclipse Temurin Success History and Plan](https://devnexus.com/presentations/nurturing-openjdk-distribution-eclipse-temurin-success-history-and-plan/5) |Speaker, Session at Practices and Other Tech track | Dexnexus 2025| Next - [Register](https://reg.connectevents.io/ConnectEvents/devnexus2025/)|
+|2025/04    | [Diversity in Open Source as a Sustainability Goal](https://my.doag.org/events/javaland/2025/agenda/#agendaId.5285) |Speaker, Session at Methodology and Culture track | JavaLand 2025| Next - [Register](https://my.doag.org/events/javaland/shop/)|
+|2025/03    | [Nurturing OpenJDK distribution: Eclipse Temurin Success History and Plan](https://devnexus.com/presentations/nurturing-openjdk-distribution-eclipse-temurin-success-history-and-plan/5) |Speaker, Session at Practices and Other Tech track | Devnexus 2025| Next - [Register](https://reg.connectevents.io/ConnectEvents/devnexus2025/)|
 |2024/11   | [Nurturing OpenJDK distribution: Eclipse Temurin Success History and plan](https://www.sfscon.it/talks/nurturing-openjdk-distribution-eclipse-temurin-success-history-and-plan/) |Lightning Talk, presented by [Ivar Grimstad](https://www.agilejava.eu/2024/11/09/sfscon-2024/)  | SFSCON 2024| [Slide Deck](https://speakerdeck.com/ivargrimstad/nurturing-openjdk-distribution-eclipse-temurin-success-history-and-plan)|
 |2024/10   | [Breaking Barriers in Open Source](https://www.ocxconf.org/event/2024/websitePage:26bc9d91-446a-49e1-9f08-8fcc4680073e?session=69d5282a-a416-4292-a786-71a5e721ef8c&shareLink=true) |Lunch Discussion on Diversity and Inclusion | OCX 2024| [Slide Deck](https://drive.google.com/file/d/1M82Tu0Aid0hfaFnf98_PkKLvxbdifcmA/view?usp=sharing)|
-|2024/09    | Adoptium 2024 Review and plan |Speaker, Lightning Talk | Adoptium Summit 2024| [Recording](https://www.youtube.com/watch?v=lHSrdC_jcrw&t=12999s)|
+|2024/09    | Adoptium 2024 review and plan |Speaker, Lightning Talk | Adoptium Summit 2024| [Recording](https://www.youtube.com/watch?v=lHSrdC_jcrw&t=12999s)|
 |2024/03    | How contribution programs benefit mentors and participants |Speaker, Session Main Track | FossBackstage 2024| [Recording](https://youtu.be/629wZ4fHYNM?si=rXskZ4JjMXeGhjzy)|
-|2023/10    | Quiero ser mentora y ahora qué? |co-host and co-organizer of a Workshop, on behalf of Step4ward|Software Crafters BCN| [Slide Deck](https://docs.google.com/presentation/d/e/2PACX-1vSGtMlv6rm-rxH0vlEHshRrTRka4kRAAenru892hGTL5nGfyfduPyAinafWs8dnJcBWppzXL-_Elklv/pub?start=false&loop=true&delayms=3000)|
-|2023/05    | Generando colaboraciones con programas de estudiantes and Primeros pasos como gestora de una comunidad de open-source |Speaker, Lightning talk|EsLibre 2023|https://eslib.re/2023/horario/|
+|2023/10    | Quiero ser mentora ¿y ahora qué? |Co-host and co-organizer of a Workshop, on behalf of Step4ward|Software Crafters BCN| [Slide Deck](https://docs.google.com/presentation/d/e/2PACX-1vSGtMlv6rm-rxH0vlEHshRrTRka4kRAAenru892hGTL5nGfyfduPyAinafWs8dnJcBWppzXL-_Elklv/pub?start=false&loop=true&delayms=3000)|
+|2023/05    | Generando colaboraciones con programas de estudiantes y Primeros pasos como gestora de una comunidad de open-source |Speaker, Lightning talk|EsLibre 2023|[Description](https://propuestas.eslib.re/2023/charlas/generando-colaboraciones-programas-estudiantes)|
 |2023/03    | How Open Source contribution programs benefit both mentors and participants |Speaker | WTM BCN 2023| [Recording](https://youtu.be/jU7kxJHSF08)|
-|2023/03    | Challeging the Satus Quo |panelist, invited as Step4ward mentor|Kantox Women in Tech|N/A|
-|2022/10    | La importancia de sentirse acompañada |co-host and co-organizer of a Workshop, on behalf of Step4ward|Software Crafters BCN| [Slide Deck](https://docs.google.com/presentation/d/e/2PACX-1vQAIlfComXbJDar-4dj37RgXPahYCftIghSJuKCIsyv3QFvpSjkbRvWc0O6Rcu5az3NRTHTmVmChlXp/pub?start=false&loop=false&delayms=3000)|
-|2022/07    | Becoming a Mentor |host and organizer of a panel session, on behalf of Step4ward|JBCN 2022|N/A|
+|2023/03    | Challenging the Status Quo |Panelist, invited as Step4ward mentor|Kantox Women in Tech|N/A|
+|2022/10    | La importancia de sentirse acompañada |Co-host and co-organizer of a Workshop, on behalf of Step4ward|Software Crafters BCN| [Slide Deck](https://docs.google.com/presentation/d/e/2PACX-1vQAIlfComXbJDar-4dj37RgXPahYCftIghSJuKCIsyv3QFvpSjkbRvWc0O6Rcu5az3NRTHTmVmChlXp/pub?start=false&loop=false&delayms=3000)|
+|2022/07    | Becoming a Mentor | Host and organizer of a panel session, on behalf of Step4ward|JBCN 2022|N/A|
 
 ## My Blog posts
 
-| When                       | Title                 | Where     | Link     |
-|--------------------------|------------------------|----------------------------------------------------------------|------------------------|
-|2024/11    | Eclipse Temurin Reaches 500 Million Downloads: A Milestone in Open Source Java |[blogs.eclipse.org](https://blogs.eclipse.org/blog/854) | [Link](https://blogs.eclipse.org/post/carmen-delgado/eclipse-temurin-reaches-500-million-downloads-milestone-open-source-java)|
-|2024/10    | Adoptium at Events: Adoptium Summit, Open Community for Java and Webinar Series |[blogs.eclipse.org](https://blogs.eclipse.org/blog/854) | [Link](https://blogs.eclipse.org/post/carmen-delgado/adoptium-events-adoptium-summit-open-community-java-and-webinar-series/)|
-|2024/08    | Adoptium Summit 2024: Migrating Towards Securely Developed Open Source Solutions - Why register? |[blogs.eclipse.org](https://blogs.eclipse.org/blog/854) | [Link](https://blogs.eclipse.org/post/carmen-delgado/adoptium-summit-2024-migrating-towards-securely-developed-open-source-solutions)|
-|2024/04    | Javaland 2024, 10th Anniversary |[blogs.eclipse.org](https://blogs.eclipse.org/blog/854)| [Link](https://blogs.eclipse.org/post/carmen-delgado/javaland-2024-10th-anniversary)|
-|2024/03    | Celebrating 20 Million Downloads: A Milestone for Adoptium! |[blogs.eclipse.org](https://blogs.eclipse.org/blog/854) | [Link](https://blogs.eclipse.org/post/carmen-delgado/celebrating-20-million-downloads-milestone-adoptium)|
-|2022/11    | A month after EclipseCon - Adoptium Community day summary, and more |[Adoptium.net](https://adoptium.net/blog/) | [Link](https://adoptium.net/es/blog/2022/11/a-month-after-eclipsecon-adoptium-community-day-summary-and-more/)|
-|2022/11    | Consejos y herramientas para prepararte una prueba técnica |[Step4ward.es](https://step4ward.es/blog/) | [Link](https://step4ward.es/consejos-y-herramientas-para-prepararte-una-prueba-tecnica/)|
-|2022/04    | Cómo filtrar ofertas en LinkedIN |[Step4ward.es](https://step4ward.es/blog/) | [Link](https://step4ward.es/como-filtrar-ofertas-en-linkedin/)|
-|2022/04    | A month after EclipseCon - Adoptium Community day summary, and more |[Step4ward.es](https://step4ward.es/blog/) | [Link](https://step4ward.es/algunos-tips-para-mejorar-tu-perfil-de-linkedin/)|
+| When                       | Title                 | Where     |
+|--------------------------|------------------------|----------------------------------------------------------------|
+|2024/11    | [Eclipse Temurin Reaches 500 Million Downloads: A Milestone in Open Source Java](https://blogs.eclipse.org/post/carmen-delgado/eclipse-temurin-reaches-500-million-downloads-milestone-open-source-java) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
+|2024/10    | [Adoptium at Events: Adoptium Summit, Open Community for Java and Webinar Series](https://blogs.eclipse.org/post/carmen-delgado/adoptium-events-adoptium-summit-open-community-java-and-webinar-series/) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
+|2024/08    | [Adoptium Summit 2024: Migrating Towards Securely Developed Open Source Solutions - Why register?](https://blogs.eclipse.org/post/carmen-delgado/adoptium-summit-2024-migrating-towards-securely-developed-open-source-solutions) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
+|2024/04    | [Javaland 2024, 10th Anniversary](https://blogs.eclipse.org/post/carmen-delgado/javaland-2024-10th-anniversary) |[Eclipse blog](https://blogs.eclipse.org/blog/854)|
+|2024/03    | [Celebrating 20 Million Downloads: A Milestone for Adoptium!](https://blogs.eclipse.org/post/carmen-delgado/celebrating-20-million-downloads-milestone-adoptium) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
+|2022/11    | [A month after EclipseCon - Adoptium Community Day summary, and more](https://adoptium.net/es/blog/2022/11/a-month-after-eclipsecon-adoptium-community-day-summary-and-more/) |[Adoptium.net](https://adoptium.net/blog/) |
+|2022/11    | [Consejos y herramientas para prepararte una prueba técnica](https://step4ward.es/consejos-y-herramientas-para-prepararte-una-prueba-tecnica/) |[Step4ward.es](https://step4ward.es/blog/) |
+|2022/04    | [Cómo filtrar ofertas en LinkedIn](https://step4ward.es/como-filtrar-ofertas-en-linkedin/) |[Step4ward.es](https://step4ward.es/blog/) |
+|2022/04    | [A month after EclipseCon - Adoptium Community Day summary, and more](https://step4ward.es/algunos-tips-para-mejorar-tu-perfil-de-linkedin/) |[Step4ward.es](https://step4ward.es/blog/) |
 
 ## Other Sessions and Collabs
 

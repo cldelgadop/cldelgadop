@@ -56,7 +56,7 @@
 | When                       | Session Title                  | Session Detail      | Where     |Link      |
 |--------------------------|------------------------|----------------------------------------------------------------|------------------------|----------------------------|
 |2022/12 - To date | Host at Step4ward Talks |Online Session |Step4wardtalks|[YouTube List](https://www.youtube.com/watch?v=-i4ZippLr3Y&list=PLBWto4tVNR780g0jI3XzpAAYcmNr___7G&pp=iAQB)|
-|2024/12   | Adoptium Update |Studio Session |JakartaOne Livestream 2024|Next- [Register](https://jakartaone.org/2024/)|
+|2024/12   | Adoptium Update |Studio Session |JakartaOne Livestream 2024|[YouTube](https://www.youtube.com/watch?v=DJp7udi8mjA&list=PLutlXcN4EAwAAqeiURVFJ_4tcEmul__53&index=9)|
 |2024/10   | Adoptium 2024 Progress Update Oct24 |Online Session, Community Call |Adoptium Community Call|[YouTube](https://www.youtube.com/watch?v=piJOhbAwEL4&list=PL5XaxCIAi_2kHTw1Y3RfteoKYbj63jsY0&index=20)|
 |2024/09   | Potenciar tu LinkedIn |Online Session, Asesoria Identidad Empresarial |Ventas Sencillas|[Slide Deck](https://docs.google.com/presentation/d/e/2PACX-1vT1naps0J_JsODEbCBsTmGM7jEVIZWnX88NqFFOclrbyfMxBke84_cXQZ7mK1vIGKcdjoo5tyk6zxZk/pub?start=false&loop=false&delayms=3000)|
 |2024/08   | 1H 2024 Program Plan Review |Online Session, Community Call |Adoptium Community Call|[YouTube](https://www.youtube.com/watch?v=2xIRZqz7-QI&list=PL5XaxCIAi_2kHTw1Y3RfteoKYbj63jsY0&index=18)|

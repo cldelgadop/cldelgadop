@@ -13,7 +13,7 @@
 # Hey there 👋, I'm Carmen; welcome to my profile
 
 ## 👩‍💻  About Me
-- 💻  [@adoptium](https://github.com/adoptium) Community Manager at Eclipse Foundation since 2022.
+- 💻  [@adoptium](https://github.com/adoptium) Program Manager at Eclipse Foundation since 2022.
 - 💜 Founder, Organizer and Mentor at [@Step4ward](https://step4ward.es/) since 2021.
 - 📃 I'm into Team, Stakeholders and Community Management; Diversity, Equity and Inclusion.
 

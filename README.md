@@ -60,6 +60,7 @@
 |2025/03    | [💼➡️💻 De contabilidad a tech: un camino inesperado](https://www.linkedin.com/pulse/de-contabilidad-tech-un-camino-inesperado-carmen-laura-delgado-p%C3%A9rez-pygxf/?trackingId=KmjSLWxGpQeTpx72dGA89w%3D%3D) |[LinkedIN](https://www.linkedin.com/posts/cldelgadop_de-contabilidad-a-tech-un-camino-activity-7302236377033641985-pWE3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANiojkBeFx5mN04rENwmmzSKjrBftPnXlA) |
 |2025/02    | [🫂El duelo como dosis de realidad: valorando lo que realmente importa](https://satisfying-tent-201.notion.site/El-duelo-como-dosis-de-realidad-valorando-lo-que-realmente-importa-1a23ca6571fe80868e31eaa2e46a5c0b) |[LinkedIN](https://www.linkedin.com/posts/cldelgadop_esta-semana-cumplo-39-a%C3%B1os-y-creo-que-activity-7299699586300846082-emtg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANiojkBeFx5mN04rENwmmzSKjrBftPnXlA) |
 |2022/11    | [Consejos y herramientas para prepararte una prueba técnica](https://step4ward.es/consejos-y-herramientas-para-prepararte-una-prueba-tecnica/) |[Step4ward.es](https://step4ward.es/blog/) |
+|2022/04    | [Algunos tips para mejorar tu perfil de LinkedIn](https://step4ward.es/algunos-tips-para-mejorar-tu-perfil-de-linkedin/) |[Step4ward.es](https://step4ward.es/blog/) |
 |2022/04    | [Cómo filtrar ofertas en LinkedIn](https://step4ward.es/como-filtrar-ofertas-en-linkedin/) |[Step4ward.es](https://step4ward.es/blog/) |
 
 ## Other Sessions and Collabs

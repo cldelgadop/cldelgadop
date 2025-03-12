@@ -78,3 +78,10 @@
 |2022/12   | Adoptium Update |Studio Session |JakartaOne Livestream 2022|[YouTube](https://www.youtube.com/watch?v=2RcXDMo72Qg&list=PLutlXcN4EAwBwhwfmPBajbiu-YlAVKG0r&index=5)|
 |2022/04   | 1Q 2023 Adoptium Program Plan Review |Online Session, Community Call |Adoptium Community Call|[YouTube](https://www.youtube.com/watch?v=y9wZeKrWFyE&list=PL5XaxCIAi_2kHTw1Y3RfteoKYbj63jsY0&index=8)|
 |2022/04   | Comunidades Tech que apoyan la diversidad |Online Session |CodeSherpasTalk|[YouTube](https://www.youtube.com/watch?v=8HsOu3-nsVw)|
+
+##   Follow me - Social Media
+- LinkedIn: [Carmen Laura Delgado Pérez](https://www.linkedin.com/in/cldelgadop/)
+- BlueSky: [@cldelgadop.bsky.social](https://bsky.app/profile/cldelgadop.bsky.social)
+- X: [@cldelgadop](https://x.com/cldelgadop)
+- Mastodon: [@cldelgadop](https://fosstodon.org/@cldelgadop)
+- SlideShare profile: [Carmen Delgado](https://es.slideshare.net/cldelgadop1)

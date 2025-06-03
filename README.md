@@ -45,6 +45,7 @@
 
 | When                       | Title                 | Where     |
 |--------------------------|------------------------|----------------------------------------------------------------|
+|2024/06    | [The Adoptium Working Group Launches the Eclipse Temurin Sustainer Program](https://blogs.eclipse.org/post/carmen-delgado/adoptium-working-group-launches-eclipse-temurin-sustainer-program) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2024/11    | [Eclipse Temurin Reaches 500 Million Downloads: A Milestone in Open Source Java](https://blogs.eclipse.org/post/carmen-delgado/eclipse-temurin-reaches-500-million-downloads-milestone-open-source-java) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2024/10    | [Adoptium at Events: Adoptium Summit, Open Community for Java and Webinar Series](https://blogs.eclipse.org/post/carmen-delgado/adoptium-events-adoptium-summit-open-community-java-and-webinar-series/) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2024/08    | [Adoptium Summit 2024: Migrating Towards Securely Developed Open Source Solutions - Why register?](https://blogs.eclipse.org/post/carmen-delgado/adoptium-summit-2024-migrating-towards-securely-developed-open-source-solutions) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |

@@ -21,6 +21,7 @@
 
 | When                       | Session Title                  | Session Detail      | Event      |Link      |
 |--------------------------|------------------------|----------------------------------------------------------------|------------------------|----------------------------|
+|2025/11/15    | Nurturing OpenJDK distribution, Temurin History |Speaker | [DevFest Vienna 2025](https://www.devfest.at/)| Next|
 |2025/04/04    | [Nurturing OpenJDK distribution, Temurin History](https://koliseo.com/carmendelgado/sessions) |Speaker, Session at Java | CommitConf 2025| [Slide Deck](https://es.slideshare.net/slideshow/es-nurturing-openjdk-distribution-eclipse-temurin-sucess-history-and-plan/277627104) [Recording](https://www.youtube.com/watch?v=IXlMjnAuKj4)|
 |2025/04/02   | [Why contributing to Open Source Java at Eclipse Foundation?](https://my.doag.org/events/javaland/2025/agenda/#agendaId.5485) | Open Discussion Host - Eclipse Foundation Biz Lounge | JavaLand 2025| [Slide Deck](https://es.slideshare.net/slideshow/why-contributing-to-open-source-java-at-eclipse-foundation-matters-javaland/281902909) |
 |2025/04/02   | [Diversity in Open Source as a Sustainability Goal](https://my.doag.org/events/javaland/2025/agenda/#agendaId.5285) |Speaker, Session at Methodology and Culture track | JavaLand 2025| [Slide Deck](https://es.slideshare.net/slideshow/diversity-in-open-source-as-a-sustainability-goal/281902972) -  [On Demand Recording](https://meine.doag.org/events/javaland/2025/agenda/#agendaId.5285)|

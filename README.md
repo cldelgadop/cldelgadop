@@ -50,6 +50,7 @@
 
 | When                       | Title                 | Where     |
 |--------------------------|------------------------|----------------------------------------------------------------|
+|2025/11    | [Adoptium Summit 2025: Advancing open source Java together](https://blogs.eclipse.org/post/carmen-delgado/adoptium-summit-2025-advancing-open-source-java-together) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/10    | [From consumer to champion: How Bloomberg is strengthening the open source Java community](https://blogs.eclipse.org/post/carmen-delgado/consumer-champion-how-bloomberg-strengthening-open-source-java-community) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/08    | [A Celebration of Community and Growth: Eclipse Temurin Reaches 700 Million Downloads](https://blogs.eclipse.org/post/carmen-delgado/celebration-community-and-growth-eclipse-temurin-reaches-700-million-downloads) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/08    | [Be Part of the Future of Open Source Java: Register for the Adoptium Summit 2025](https://blogs.eclipse.org/post/carmen-delgado/be-part-future-open-source-java-register-adoptium-summit-2025) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |

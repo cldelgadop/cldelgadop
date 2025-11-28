@@ -47,9 +47,11 @@
 |2022/07/19    | Becoming a Mentor | Host and organizer of a panel session on behalf of Step4ward|JBCN 2022|N/A|
 
 ## Eclipse Foundation and Adoptium Blog Posts
-
+A quick note about Eclipse Foundation blog posts: Although they appear under my byline, most of them reflect a collaborative team effort with the EF Marketing team and our technical writers. Huge thanks to everyone involved, teamwork makes it happen!
 | When                       | Title                 | Where     |
 |--------------------------|------------------------|----------------------------------------------------------------|
+|2025/11    | [Why sponsoring open source matters: A conversation with Hendrik Ebbers of Open Elements](https://blogs.eclipse.org/post/carmen-delgado/why-sponsoring-open-source-matters-conversation-hendrik-ebbers-open-elements) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
+|2025/11    | [How MacStadium’s sponsorship strengthens Adoptium](https://blogs.eclipse.org/post/carmen-delgado/how-macstadium%E2%80%99s-sponsorship-strengthens-adoptium) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/11    | [Adoptium Summit 2025: Advancing open source Java together](https://blogs.eclipse.org/post/carmen-delgado/adoptium-summit-2025-advancing-open-source-java-together) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/10    | [From consumer to champion: How Bloomberg is strengthening the open source Java community](https://blogs.eclipse.org/post/carmen-delgado/consumer-champion-how-bloomberg-strengthening-open-source-java-community) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/08    | [A Celebration of Community and Growth: Eclipse Temurin Reaches 700 Million Downloads](https://blogs.eclipse.org/post/carmen-delgado/celebration-community-and-growth-eclipse-temurin-reaches-700-million-downloads) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |

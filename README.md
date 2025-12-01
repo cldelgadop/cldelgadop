@@ -50,6 +50,7 @@
 A quick note about Eclipse Foundation blog posts: Although they appear under my byline, most of them reflect a collaborative team effort with the EF Marketing team and our technical writers. Huge thanks to everyone involved, teamwork makes it happen!
 | When                       | Title                 | Where     |
 |--------------------------|------------------------|----------------------------------------------------------------|
+|2025/12    | [Support open source this Giving Tuesday: Help sustain the technologies you use every day](https://blogs.eclipse.org/post/carmen-delgado/support-open-source-giving-tuesday-help-sustain-technologies-you-use-every-day)|[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/11    | [Why sponsoring open source matters: A conversation with Hendrik Ebbers of Open Elements](https://blogs.eclipse.org/post/carmen-delgado/why-sponsoring-open-source-matters-conversation-hendrik-ebbers-open-elements) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/11    | [How MacStadium’s sponsorship strengthens Adoptium](https://blogs.eclipse.org/post/carmen-delgado/how-macstadium%E2%80%99s-sponsorship-strengthens-adoptium) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/11    | [Adoptium Summit 2025: Advancing open source Java together](https://blogs.eclipse.org/post/carmen-delgado/adoptium-summit-2025-advancing-open-source-java-together) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |

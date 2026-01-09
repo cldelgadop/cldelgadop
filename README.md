@@ -21,7 +21,9 @@
 
 | When                       | Session Title                  | Session Detail      | Event      |Link      |
 |--------------------------|------------------------|----------------------------------------------------------------|------------------------|----------------------------|
-|2025/12/10-11    | The Struggle is real, Free of Charge != Cost-Free |Speaker | [Open Source Experience 2025](https://www.opensource-experience.com/en/)| Next|
+|2026/03/10-12 | The Struggle is real, Free of Charge != Cost-Free |Speaker | [Javaland 2026](https://www.javaland.eu/en/home/)| [Register](https://my.doag.org/events/javaland/shop/)| 
+|2026/01/20 | Panel Discussion: A World of Open Source — The Eclipse Foundation’s Impact on Ecosystems and Technology | Panellist | [Valencia JUG](https://www.meetup.com/valenciajug/)| [Register](https://www.meetup.com/valenciajug/events/312774322/?recId=32730b0e-4b17-4b90-8a16-fb0b29dbe311&recSource=event-search&searchId=a48c04d2-1eb1-4353-8c53-f9f74b05766f&eventOrigin=find_page$all)|
+|2025/12/10-11 | The Struggle is real, Free of Charge != Cost-Free |Speaker | [Open Source Experience 2025](https://www.opensource-experience.com/en/)| [Slide Deck](https://es.slideshare.net/slideshow/the-struggle-is-real-free-of-charge-cost-free_carmen-delgado-francisco-osxp-pdf/285112729)|
 |2025/12/02    | Why does contributing to open source matter? | Keynote Speaker | Criteo Tech Summit | [Slide Deck](https://es.slideshare.net/slideshow/why-does-contributing-to-open-source-matters-criteo-tech-summit-2025/284455749)|
 |2025/11/15    | Nurturing OpenJDK distribution, Temurin History |Speaker | [DevFest Vienna 2025](https://www.devfest.at/)| [Slide Deck](https://es.slideshare.net/slideshow/nurturing-openjdk-distribution-devfest-vienna-2025/284363389) / [Recording](https://www.youtube.com/watch?v=CNkMtmDNl0c) / [Session Details](https://www.devfest.at/speakers/#carmen-delgado)|
 |2025/11/14-15    | Open Source: ¿Gratis? Sí ¿Sin coste? No |Speaker | [Nerdearla Madrid 2025](https://nerdearla.es/)| [Slide Deck](https://es.slideshare.net/slideshow/open-source-gratis-si-sin-coste-no-nerdearla-2025/284363346) / [Session Details](https://nerdearla.es/agenda/open-source-gratis-si-sin-coste-no/)|
@@ -51,6 +53,7 @@
 A quick note about Eclipse Foundation blog posts: Although they appear under my byline, most of them reflect a collaborative team effort with the EF Marketing team and our technical writers. Huge thanks to everyone involved, teamwork makes it happen!
 | When                       | Title                 | Where     |
 |--------------------------|------------------------|----------------------------------------------------------------|
+|2026/01    | [Adoptium 2025: A year of momentum, innovation, and trust in open source Java runtimes](https://blogs.eclipse.org/post/carmen-delgado/adoptium-2025-year-momentum-innovation-and-trust-open-source-java-runtimes)|[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/12    | [Support open source this Giving Tuesday: Help sustain the technologies you use every day](https://blogs.eclipse.org/post/carmen-delgado/support-open-source-giving-tuesday-help-sustain-technologies-you-use-every-day)|[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/11    | [Why sponsoring open source matters: A conversation with Hendrik Ebbers of Open Elements](https://blogs.eclipse.org/post/carmen-delgado/why-sponsoring-open-source-matters-conversation-hendrik-ebbers-open-elements) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/11    | [How MacStadium’s sponsorship strengthens Adoptium](https://blogs.eclipse.org/post/carmen-delgado/how-macstadium%E2%80%99s-sponsorship-strengthens-adoptium) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |

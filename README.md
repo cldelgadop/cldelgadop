@@ -89,6 +89,7 @@ A quick note about Eclipse Foundation blog posts: Although they appear under my 
 
 | When                       | Session Title                  | Session Detail      | Where     |Link      |
 |--------------------------|------------------------|----------------------------------------------------------------|------------------------|----------------------------|
+|2026/02   | Feliz día de la Niña y la Mujer en la  Ciencia con Carmen Delgado de Step4ward |Online Session |Podcast "Ya te llamaremos"|[Spotify](https://open.spotify.com/episode/6Aw8zGwUtHlsUFDlmBwyM7?si=77f5c3f0a9a241be)|
 |2025/08   | Adoptium 2025 H1 Progress Update |Online Session, Community Call |Adoptium Community Call|[YouTube](https://youtu.be/WLProPs16KQ)|
 |2022/12 - To date | Host at Step4ward Talks |Online Session |Step4wardtalks|[YouTube List](https://www.youtube.com/watch?v=-i4ZippLr3Y&list=PLBWto4tVNR780g0jI3XzpAAYcmNr___7G&pp=iAQB)|
 |2024/12   | Adoptium Update |Studio Session |JakartaOne Livestream 2024|[YouTube](https://www.youtube.com/watch?v=DJp7udi8mjA&list=PLutlXcN4EAwAAqeiURVFJ_4tcEmul__53&index=9)|

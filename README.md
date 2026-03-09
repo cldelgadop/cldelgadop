@@ -53,6 +53,8 @@
 A quick note about Eclipse Foundation blog posts: Although they appear under my byline, most of them reflect a collaborative team effort with the EF Marketing team and our technical writers. Huge thanks to everyone involved, teamwork makes it happen!
 | When                       | Title                 | Where     |
 |--------------------------|------------------------|----------------------------------------------------------------|
+|2026/02    | [JavaLand x Women in Tech Speaker Spotlight: Carmen Delgado
+](https://www.javaland.eu/en/home/news/news/javaland-x-women-in-tech-speaker-spotlight-carmen-delgado/)|[Javaland news](https://www.javaland.eu/en/home/news/) |
 |2026/01    | [Adoptium 2025: A year of momentum, innovation, and trust in open source Java runtimes](https://blogs.eclipse.org/post/carmen-delgado/adoptium-2025-year-momentum-innovation-and-trust-open-source-java-runtimes)|[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/12    | [Support open source this Giving Tuesday: Help sustain the technologies you use every day](https://blogs.eclipse.org/post/carmen-delgado/support-open-source-giving-tuesday-help-sustain-technologies-you-use-every-day)|[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/11    | [Why sponsoring open source matters: A conversation with Hendrik Ebbers of Open Elements](https://blogs.eclipse.org/post/carmen-delgado/why-sponsoring-open-source-matters-conversation-hendrik-ebbers-open-elements) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |
@@ -75,7 +77,7 @@ A quick note about Eclipse Foundation blog posts: Although they appear under my 
 ## Career and professional advice Blog Posts
 
 | When                       | Title                 | Where     |
-|--------------------------|------------------------|----------------------------------------------------------------|
+|--------------------------|------------------------|----------------------------------------------------
 |2025/03    | [🔄✨ Navegando el cambio: reflexiones y consejos para quienes están en un camino de transformación](https://www.linkedin.com/pulse/navegando-el-cambio-reflexiones-y-consejos-para-est%C3%A1n-delgado-p%C3%A9rez-nbytf) |[LinkedIN](https://www.linkedin.com/posts/cldelgadop_el-cambio-es-desafiante-pero-tambi%C3%A9n-activity-7309846471607001088-ErM3?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAANiojkBeFx5mN04rENwmmzSKjrBftPnXlA) |
 |2025/03    | [🌍💡 Crecer entre dos culturas: el impacto de una doble identidad en el trabajo y liderazgo](https://www.linkedin.com/pulse/crecer-entre-dos-culturas-el-impacto-de-una-doble-en-y-delgado-p%C3%A9rez-mjoxf) |[LinkedIN](https://www.linkedin.com/posts/cldelgadop_crecer-entre-dos-culturas-una-ventaja-activity-7307309785475899392-E6CE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANiojkBeFx5mN04rENwmmzSKjrBftPnXlA) |
 |2025/03    | [🧠🤯 Los últimos ocho años: desafíos, aprendizajes y visión de futuro](https://www.linkedin.com/pulse/los-%C3%BAltimos-ocho-a%C3%B1os-desaf%C3%ADos-aprendizajes-y-visi%C3%B3n-de-carmen-laura-kylqf/?trackingId=jlW0PDJBW14OQJ51jKd%2FFg%3D%3D) |[LinkedIN](https://www.linkedin.com/posts/cldelgadop_lecciones-aprendidas-desde-qu%C3%A9-trabajo-activity-7304773073998643200-egPM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAANiojkBeFx5mN04rENwmmzSKjrBftPnXlA) |

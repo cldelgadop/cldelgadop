@@ -53,8 +53,7 @@
 A quick note about Eclipse Foundation blog posts: Although they appear under my byline, most of them reflect a collaborative team effort with the EF Marketing team and our technical writers. Huge thanks to everyone involved, teamwork makes it happen!
 | When                       | Title                 | Where     |
 |--------------------------|------------------------|----------------------------------------------------------------|
-|2026/02    | [JavaLand x Women in Tech Speaker Spotlight: Carmen Delgado
-](https://www.javaland.eu/en/home/news/news/javaland-x-women-in-tech-speaker-spotlight-carmen-delgado/)|[Javaland news](https://www.javaland.eu/en/home/news/) |
+|2026/02|[JavaLand x Women in Tech Speaker Spotlight: Carmen Delgado](https://www.javaland.eu/en/home/news/news/javaland-x-women-in-tech-speaker-spotlight-carmen-delgado)|[Javaland news](https://www.javaland.eu/en/home/news/)|
 |2026/01    | [Adoptium 2025: A year of momentum, innovation, and trust in open source Java runtimes](https://blogs.eclipse.org/post/carmen-delgado/adoptium-2025-year-momentum-innovation-and-trust-open-source-java-runtimes)|[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/12    | [Support open source this Giving Tuesday: Help sustain the technologies you use every day](https://blogs.eclipse.org/post/carmen-delgado/support-open-source-giving-tuesday-help-sustain-technologies-you-use-every-day)|[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/11    | [Why sponsoring open source matters: A conversation with Hendrik Ebbers of Open Elements](https://blogs.eclipse.org/post/carmen-delgado/why-sponsoring-open-source-matters-conversation-hendrik-ebbers-open-elements) |[Eclipse blog](https://blogs.eclipse.org/blog/854) |

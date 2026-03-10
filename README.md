@@ -21,7 +21,7 @@
 
 | When                       | Session Title                  | Session Detail      | Event      |Link      |
 |--------------------------|------------------------|----------------------------------------------------------------|------------------------|----------------------------|
-|2026/03/10-12 | The Struggle is real, Free of Charge != Cost-Free |Speaker | [Javaland 2026](https://www.javaland.eu/en/home/)| [Register](https://my.doag.org/events/javaland/shop/)| 
+|2026/03/10-12 | The Struggle is real, Free of Charge != Cost-Free |Speaker | [Javaland 2026](https://www.javaland.eu/en/home/)| [Slide Deck](https://es.slideshare.net/slideshow/the-struggle-is-real-free-of-charge-cost-free-javaland-march-2026/286438461)/ [On Demand Recording](https://meine.doag.org/events/javaland/2026/agenda/#agendaId.6830)| 
 |2026/01/20 | Panel Discussion: A World of Open Source — The Eclipse Foundation’s Impact on Ecosystems and Technology | Panellist | [Valencia JUG](https://www.meetup.com/valenciajug/)| [Register](https://www.meetup.com/valenciajug/events/312774322/?recId=32730b0e-4b17-4b90-8a16-fb0b29dbe311&recSource=event-search&searchId=a48c04d2-1eb1-4353-8c53-f9f74b05766f&eventOrigin=find_page$all)|
 |2025/12/10-11 | The Struggle is real, Free of Charge != Cost-Free |Speaker | [Open Source Experience 2025](https://www.opensource-experience.com/en/)| [Slide Deck](https://es.slideshare.net/slideshow/the-struggle-is-real-free-of-charge-cost-free_carmen-delgado-francisco-osxp-pdf/285112729)|
 |2025/12/02    | Why does contributing to open source matter? | Keynote Speaker | Criteo Tech Summit | [Slide Deck](https://es.slideshare.net/slideshow/why-does-contributing-to-open-source-matters-criteo-tech-summit-2025/284455749)|

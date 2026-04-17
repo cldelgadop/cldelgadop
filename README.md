@@ -21,6 +21,7 @@
 
 | When                       | Session Title                  | Session Detail      | Event      |Link      |
 |--------------------------|------------------------|----------------------------------------------------------------|------------------------|----------------------------|
+|2026/04/21-23 | Building the future: Strategic inclusion for the next wave of contributors | Workshop Host | [OCX 2026](https://www.ocxconf.org/event/2026/summary)| [Register Now](https://www.ocxconf.org/event/2026/regProcessStep1)|
 |2026/03/10-12 | The Struggle is real, Free of Charge != Cost-Free |Speaker | [Javaland 2026](https://www.javaland.eu/en/home/)| [Slide Deck](https://es.slideshare.net/slideshow/the-struggle-is-real-free-of-charge-cost-free-javaland-march-2026/286438461)/ [On Demand Recording](https://meine.doag.org/events/javaland/2026/agenda/#agendaId.6830)| 
 |2026/01/20 | Panel Discussion: A World of Open Source — The Eclipse Foundation’s Impact on Ecosystems and Technology | Panellist | [Valencia JUG](https://www.meetup.com/valenciajug/)| [Register](https://www.meetup.com/valenciajug/events/312774322/?recId=32730b0e-4b17-4b90-8a16-fb0b29dbe311&recSource=event-search&searchId=a48c04d2-1eb1-4353-8c53-f9f74b05766f&eventOrigin=find_page$all)|
 |2025/12/10-11 | The Struggle is real, Free of Charge != Cost-Free |Speaker | [Open Source Experience 2025](https://www.opensource-experience.com/en/)| [Slide Deck](https://es.slideshare.net/slideshow/the-struggle-is-real-free-of-charge-cost-free_carmen-delgado-francisco-osxp-pdf/285112729)|
@@ -53,6 +54,7 @@
 A quick note about Eclipse Foundation blog posts: Although they appear under my byline, most of them reflect a collaborative team effort with the EF Marketing team and our technical writers. Huge thanks to everyone involved, teamwork makes it happen!
 | When                       | Title                 | Where     |
 |--------------------------|------------------------|----------------------------------------------------------------|
+|2026/04|[The journey continues: New role in the Eclipse Management Organization](https://blogs.eclipse.org/post/carmen-delgado/journey-continues-new-role-eclipse-management-organization)|[Eclipse blog](https://blogs.eclipse.org/blog/854)|
 |2026/02|[JavaLand x Women in Tech Speaker Spotlight: Carmen Delgado](https://www.javaland.eu/en/home/news/news/javaland-x-women-in-tech-speaker-spotlight-carmen-delgado)|[Javaland news](https://www.javaland.eu/en/home/news/)|
 |2026/01    | [Adoptium 2025: A year of momentum, innovation, and trust in open source Java runtimes](https://blogs.eclipse.org/post/carmen-delgado/adoptium-2025-year-momentum-innovation-and-trust-open-source-java-runtimes)|[Eclipse blog](https://blogs.eclipse.org/blog/854) |
 |2025/12    | [Support open source this Giving Tuesday: Help sustain the technologies you use every day](https://blogs.eclipse.org/post/carmen-delgado/support-open-source-giving-tuesday-help-sustain-technologies-you-use-every-day)|[Eclipse blog](https://blogs.eclipse.org/blog/854) |
